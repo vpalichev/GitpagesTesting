@@ -1,4 +1,4 @@
 # GitpagesTesting
 To test Gitpages functionality
 
-First commit!
+First commit! And the second.
